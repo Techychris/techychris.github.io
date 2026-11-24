@@ -26,3 +26,4 @@ Disallow: /kpib-lineage?
 # Other crawlers can see the HTML noindex tags. Keep the roster asset out of crawl.
 User-agent: *
 Disallow: /kpib-lineage/lineage-data.js
+Disallow: /kpib-lineage/class-dads.js
